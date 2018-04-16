@@ -1,0 +1,14 @@
+/.idea
+/learning_logs/__pycache__
+/learning_logs/migrations/__pycache__
+/ll_env/Lib/site-packages/__pycache__
+/ll_env/Scripts/__pycache__
+/web/__pycache__
+/ll_env/Lib/site-packages/django/__pycache__
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
