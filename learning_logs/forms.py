@@ -1,7 +1,6 @@
 from django import forms
 
-from .models import Topic
-from .models import Entry
+from .models import Topic,Entry
 
 
 class TopicForm(forms.ModelForm):
