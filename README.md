@@ -1,6 +1,6 @@
 # web
 web应用程序
-Python 编程从入门到实践：项目3 Web应用程序
+Python 
 Django 2.0.4
 1.改url为path：
 
@@ -73,7 +73,6 @@ from django.urls import reverse
 3.添加外键
 topic = models.ForeignKey(Topic, on_delete=models.CASCADE)
 
-只记得这么多需要改的地方了。。。
 
 https://daily-life-221.herokuapp.com/
 
